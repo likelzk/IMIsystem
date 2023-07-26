@@ -1,3 +1,6 @@
+**项目内容: **
+这是我自己根据b站中刘丹冰老师的课程打的代码，基本是原文抄送了。
+
 **课程名称：**
 
 8小时转职Golang工程师(如果你想低成本学习Go语言)
@@ -16,8 +19,6 @@ https://www.bilibili.com/video/BV1gf4y1r79E/?p=49&spm_id_from=333.880.my_history
 - dlv@v1.5.0
 - staticcheck@v0.2.2
 - gopls@v0.4.4
-
-这是我自己根据b站中刘丹冰老师的课程打的代码，基本是原文抄送了。
 
 **收获：**
 
