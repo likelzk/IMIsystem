@@ -4,7 +4,6 @@
 课程地址：
 https://www.bilibili.com/video/BV1gf4y1r79E/?p=49&spm_id_from=333.880.my_history.page.click
 
-其中的各工具的版本：
 go 的版本：1.14.4
 
 tools 的版本:
