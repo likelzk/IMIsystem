@@ -7,13 +7,13 @@ https://www.bilibili.com/video/BV1gf4y1r79E/?p=49&spm_id_from=333.880.my_history
 go 的版本：1.14.4
 
 tools 的版本:
-gotests@v1.6.0
-gomodifytags@v1.16.0
-impl@v1.1.0
-goplay@v1.0.0
-dlv@v1.5.0
-staticcheck@v0.2.2
-gopls@v0.4.4
+- gotests@v1.6.0
+- gomodifytags@v1.16.0
+- impl@v1.1.0
+- goplay@v1.0.0
+- dlv@v1.5.0
+- staticcheck@v0.2.2
+- gopls@v0.4.4
 
 这是我自己根据b站中刘丹冰老师的课程打的代码，基本是原文抄送了。
 
